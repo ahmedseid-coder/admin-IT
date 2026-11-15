@@ -1,0 +1,45 @@
+﻿ ,region,warehouse_manager,technical_manager,product_description,unit,manufacturer,batch_number,expiry_date,quantity,remark,created_at
+1,Dessie(AO04),Meaza Walelign,Eliase Gerima,Hiwot Trust condom,EA,DKT Ethiopia,M44260510,6/30/2031,115200,Good condition,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Hiwot Trust condom,EA,DKT Ethiopia,M48250701,6/1/2030,13824,G00d condition,11/14/2026 0:00
+ ,Dessie(AO04),Meaza Walelign,Eliase Gerima,Hiwot Trust condom,EA,DKT Ethiopia,M27250704,6/30/2030,0,Good condition,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Hiwot Trust condom,EA,DKT Ethiopia,M37250705,6/1/2030,0,Good condition,11/15/2026 0:00
+2,Dessie(AO04),Meaza Walelign,Eliase Gerima,Sensation Condom,EA,DKT Ethiopia,M47250713,6/1/2030,32832,Good condition,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Sensation Condom,EA,DKT Ethiopia,M46260508,6/1/2026,138240,Good condition,11/15/2026 0:00
+3,Dessie(AO04),Meaza Walelign,Eliase Gerima,Mela one,EA,DKT Ethiopia,NR02843A,1/6/2029,19200,Fast moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Mela one,EA,DKT Ethiopia,NR02598A,12/1/2028,0,Fast moving,11/15/2026 0:00
+4,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4007319,1/1/2029,0,Good,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4006203,10/1/2028,0,Good,11/7/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4006176,10/1/2028,0,Good,11/7/20260;00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4007261,6/1/2029,22032,Good,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4007159,12/1/2028,0,Good,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Choice,Cycle,DKT Ethiopia,4007157,12/1/2028,0,Goog,11/15/2026 0:00
+5,Dessie(AO04),Meaza Walelign,Eliase Gerima,MVA,Set,DKT Ethiopia,250507C,5/1/2030,3,Sterile,11/15/2026 0:00
+6,Dessie(AO04),Meaza Walelign,Eliase Gerima,Safe t kit,Kit,DKT Ethiopia,NR02912A,1/6/2028,2160,,11/15/2026 0:00
+7,Dessie(AO04),Meaza Walelign,Eliase Gerima,Post pills,EA,DKT Ethiopia,,,0,,11/15/2026 0:00
+8,Dessie(AO04),Meaza Walelign,Eliase Gerima,Implanon,EA,DKT Ethiopia,,,0,,11/15/2026 0:00
+9,Dessie(AO04),Meaza Walelign,Eliase Gerima,Levoplant,EA,DKT Ethiopia,ZZ20230310,3/1/2028,400,Slow moving,11/15/2026 0:00
+10,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,145383,Jan-30,200,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,147086,Jan-30,78000,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,147090,Jan-30,3700,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,146741,Jan-30,2800,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,119229,Aug-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,119232,Aug-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,119235,Aug-28,100,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,112800,May-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,112802,May-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,112804,Jun-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,119227,Jul-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,117850,Jul-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,112799,May-28,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,Depo,Vial,DKT Ethiopia,139791,Nov-29,0,Slow moving,11/15/2026 0:00
+11,Dessie(AO04),Meaza Walelign,Eliase Gerima,I-plan,EA,DKT Ethiopia,8186937,5/1/2027,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,I-plan,EA,DKT Ethiopia,4003835,1/3/2028,0,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,I-plan,EA,DKT Ethiopia,4003897,1/3/2028,0,Slow moving,11/15/2026 0:00
+12,Dessie(AO04),Meaza Walelign,Eliase Gerima,Miso fem,EA,DKT Ethiopia,NR02479C,8/1/2027,288,Slow moving,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,IUCD,EA,DKT Ethiopia,DAX3020,1/5/2031,1500,,
+13,Dessie(AO04),Meaza Walelign,Eliase Gerima,IUCD,EA,DKT Ethiopia,DAT2572,1/1/2028,320,No moving,11/15/2026 0:00
+14,Dessie(AO04),Meaza Walelign,Eliase Gerima,LEMLEM,Sachet,DKT Ethiopia,035J062,8/1/2027,0,Good condition,11/15/2026 0:00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,LEMLEM,Sachet,DKT Ethiopia,035J036,1/11/2027,0,G00d condition,9/12/2026 0;00
+,Dessie(AO04),Meaza Walelign,Eliase Gerima,LEMLEM,Sachet,DKT Ethiopia,035j021,11/1/2027,0,Good condition,11/15/2026 0:00
+15,Dessie(AO04),Meaza Walelign,Eliase Gerima,PPIUD,EA,DKT Ethiopia,DAW2868,5/1/2030,35,Slow moving,11/15/2026 0:00
+16,Dessie(AO04),Meaza Walelign,Eliase Gerima,Printer paper,EA,Office Supply,,,0,Fast moving,11/15/2026 0:00

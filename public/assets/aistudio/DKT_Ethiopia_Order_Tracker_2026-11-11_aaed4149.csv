@@ -1,0 +1,11 @@
+﻿DKT ETHIOPIA Order Tracker,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Purchase Requisition Detail,,,Purchase Order Detail,,PI Detail,,,,,Commercial Invoice Detail,,Date Tracker,,,,,,,,,,,
+No.,Product,Purchase Requisition Number,Date,Quantity,Purchase Order Number,Date,PI Number,PI Date,Quantity,Incoterms,Expected Date of Disptach,Commercial Invoice Number,Quantity,Shipment Release Date from MBL,Expected Shipment Reach Djibouti Date,Shipment Reached Djibouti Date,India To Djibouti ,Shipment Release from Djibouti,Djibouti Clearance Duration,Shipment Reach Central Stock DKT Head Office Date,From Djibouti To Addis Ababa,Date of Arrival at Warehouse,Total Lead Time From PO to Warehouse in Days,Shipment Status,Remark
+1,Hiwot Trust and Sensation,2026/03/16-TH-01,March 16 2026,18432000,,,2026/03/16-TH-01,,0,46108,,CIP Addis Ababa,46187,TNR P69204,,,,,,,4 days,,8,In Production / Awaiting Dispatch,
+2,Mela One,2026/04/26-NA-02,,2680000,,,2026/04/26-NA-02,,0,46160,,CIF Addis Ababa,46249,INV/NPL/111/26-27,,,,,,,,,,Shipped,
+3,Mela One,2026/04/26-NA-02,,2680000,,,2026/04/26-NA-02,,0,46160,,CIF Addis Ababa,46249,INV/NPL/140/26-27,,,,,,,,,,Shipped,
+4,Safe T Kit,2026/05/26 - NA-03,,162081,,,2026/05/26 - NA-03,,0,46171,,CIF Djibouti,46249,INV/NPL/121/26-27,,,,,,,,,,Shipped,
+5,Lemlem  Orange,2025/05/26- FD-01,,1244000,,,2025/05/26- FD-01,,0,46163,,CIF Djibouti,46281,Not Generated Yet,,,,,,,,,,Shipped,
+6,Safe T Kit,,,0,,,,,0,CIF Addis Ababa,,Pending,,,,,,,,,,,,Shipped,
+7,Mela One,,,0,,,,,0,CIF Addis Ababa,,Pending,,,,,,,,,,,,Shipped,

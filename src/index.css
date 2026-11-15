@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  html {
+    font-size: 17px;
+  }
+
+  @media (min-width: 640px) {
+    html {
+      font-size: 18px;
+    }
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 1rem; /* 18px large readable base */
+    line-height: 1.55;
+    letter-spacing: -0.008em;
+  }
+
+  input,
+  select,
+  textarea,
+  button {
+    font-size: inherit;
+  }
+
+  /* Custom subtle scrollbar */
+  ::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(148, 163, 184, 0.35);
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(148, 163, 184, 0.55);
+  }
+}
+
+@keyframes pulseRedBorder {
+  0%, 100% {
+    border-color: #ef4444;
+    box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.45), 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  }
+  50% {
+    border-color: #b91c1c;
+    box-shadow: 0 0 0 4px rgba(220, 38, 38, 0.16), 0 4px 12px -2px rgba(220, 38, 38, 0.22);
+  }
+}
+
+.animate-critical-border {
+  animation: pulseRedBorder 1.8s ease-in-out infinite;
+}
+
+@media print {
+  aside,
+  header,
+  nav[aria-label="Mobile primary navigation"],
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff !important;
+    color: #0f172a !important;
+  }
+
+  main {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+}

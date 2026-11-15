@@ -1,0 +1,6 @@
+{
+  "name": "DKT Ethiopia Inbound Shipment Tracker",
+  "description": "Enterprise inbound shipment and supply chain order tracking portal for DKT Ethiopia, monitoring reproductive health supplies from overseas manufacturing through Djibouti port to Addis Ababa central warehouse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
